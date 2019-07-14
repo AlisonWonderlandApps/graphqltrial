@@ -1,4 +1,4 @@
-# {
+nod# {
 #   user(id: "2") {
 #     firstName,
 #     company{ id, name, description }
